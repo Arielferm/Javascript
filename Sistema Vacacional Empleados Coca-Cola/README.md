@@ -19,3 +19,15 @@ Aplicación de escritorio desarrollada en Java Swing para la gestión operativa 
 - Prototipos empresariales
 
 - Productos white‑label
+
+<p align="center">
+<img src="imagenes/c1.png" alt="c1" width="400">
+</p>
+
+<p align="center">
+<img src="imagenes/c2.png" alt="c2" width="400">
+</p>
+
+<p align="center">
+<img src="imagenes/c3.png" alt="c3" width="400">
+</p>
